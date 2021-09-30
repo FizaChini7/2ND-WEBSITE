@@ -1,5 +1,6 @@
 body{
     font-family: 'Merriweather', serif;
+    margin: 0%;
 }
 h1{
     font-size: 50px;
@@ -15,9 +16,7 @@ p{
 h1.text{
     text-align: center;
 }
-.First-part{
 
-}
 .orange{
     color:coral;
 }
@@ -25,15 +24,31 @@ h1.text{
    color: indigo;
 }
 .fi-lekha{
-    width: 50%;
+    width: 40%;
+    
 float:left;
-margin: 3%%;
-padding:left;
+margin-left: 5%;
+padding-left:2%;
 }
 .fi-lekha img{
-    width:100%;
-    height: 7%;
+    width:90%;
+    
 }
+.extra{
+    
+        box-shadow: 5px 10px 70px;
+        margin-right: 1%;
+      height: 60%;
+        width:20%;
+        border-radius: 10px;
+       background-repeat:none;
+
+}
+.shadow{
+    background-color: #f8f9fc;
+    padding-bottom: 150px;
+}
+
 .link{
     text-decoration: none;
     font-size: 20px;
@@ -45,10 +60,19 @@ padding:left;
 }
 section{
     height:500px;
-    padding-bottom: 150px;
+    padding: 20px;
 }
 .photo{
     width: 200px;
     height: 200px;
     float: left;
 }
+#choto{
+    margin-left: 10%;
+}
+.margin{
+    margin-left: 35%;
+    width: 1%;
+    height: 20px;
+}
+
